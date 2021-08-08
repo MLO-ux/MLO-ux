@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MLO-ux
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning Python, Java, C++.
+- 📫 Reach me at oldsonmichael@gmail.com
